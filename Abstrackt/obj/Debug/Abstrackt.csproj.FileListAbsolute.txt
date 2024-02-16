@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Abstrackt\obj\Debug\Abstrackt.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Abstrackt\obj\Debug\Abstrackt.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Abstrackt\bin\Debug\Abstrackt.exe.config
+C:\Users\Kab-35-6\source\repos\Abstrackt\bin\Debug\Abstrackt.exe
+C:\Users\Kab-35-6\source\repos\Abstrackt\bin\Debug\Abstrackt.pdb
+C:\Users\Kab-35-6\source\repos\Abstrackt\obj\Debug\Abstrackt.exe
+C:\Users\Kab-35-6\source\repos\Abstrackt\obj\Debug\Abstrackt.pdb
